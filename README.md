@@ -5,7 +5,8 @@
 - 🛠️ Gosto de criar sistemas CEF SA-MP, HTML e muito mais
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorzin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=forwalkin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forwalkin&layout=compact&theme=radical" />
 </p>
 
 ### 🤖 Linguagens
