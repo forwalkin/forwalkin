@@ -34,7 +34,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-<img 
     align="left" 
     alt="CEF" 
     title="CEF SA-MP"
