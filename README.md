@@ -2,7 +2,7 @@
 
 - 💻 Linguagens: HTML, CSS, JS, CEF,
 - 🚀 Trabalhando em projetos como **forwalkin**
-- 🛠️ Gosto de criar sistemas CEF SA-MP, HTML e muito mais
+- 🛠️ Gosto de CEF SA-MP e javascript e odeio php
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=forwalkin&show_icons=true&theme=radical" />
