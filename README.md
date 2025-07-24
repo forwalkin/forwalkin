@@ -46,8 +46,7 @@
     alt="Typescript" 
     title="Typescript"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://en.m.wikipedia.org/wiki/File:Typescript.svg" 
+    style="padding-right: 10px;"     src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" 
 />
 <img 
     align="left" 
