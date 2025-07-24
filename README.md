@@ -55,5 +55,5 @@
     title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://en.m.wikipedia.org/wiki/File:React_Logo_SVG.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" 
 />
