@@ -48,11 +48,3 @@
     width="30px" 
     style="padding-right: 10px;"     src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" 
 />
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" 
-/>
