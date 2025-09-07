@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o forwalkin</h1>
 
-- 💻 Linguagens: HTML, CSS, JS, CEF, React, Typescript.
-- 🚀 Trabalhando em projetos como **Shaktar**
+- 💻 Linguagens: HTML, CSS, JS, CEF, Typescript.
+- 🚀 Trabalhando em projetos como **ForLang**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=forwalkin&show_icons=true&theme=radical" />
