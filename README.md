@@ -38,16 +38,13 @@ Atualmente focado em **C**, **C++**, **Electron** e **JavaScript**, aplicando bo
 ## Estatísticas
 
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=forwalkin&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://img.shields.io/github/followers/forwalkin?label=Seguidores&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/forwalkin?label=Stars&style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=forwalkin&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://img.shields.io/github/commit-activity/m/forwalkin/forwalkin?label=Commits%20mensais&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/forwalkin/forwalkin?label=Último%20commit&style=for-the-badge" />
 </p>
 
 ---
