@@ -6,12 +6,12 @@
 
 ---
 
-## 🧠 Sobre mim  
+## Sobre mim  
 Atualmente focado em **C**, **C++**, **Electron** e **JavaScript**, aplicando boas práticas em desenvolvimento **frontend**, **backend** e **aplicações desktop** multiplataforma.  
 
 ---
 
-## 🚀 Linguagens de Programação
+## Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,dart&theme=dark" />
@@ -19,7 +19,7 @@ Atualmente focado em **C**, **C++**, **Electron** e **JavaScript**, aplicando bo
 
 ---
 
-## 🧩 Frameworks e Plataformas
+##  Frameworks e Plataformas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=electron,nodejs,npm&theme=dark" />
@@ -27,7 +27,7 @@ Atualmente focado em **C**, **C++**, **Electron** e **JavaScript**, aplicando bo
 
 ---
 
-## 🛠️ Ferramentas e IDEs
+##  Ferramentas e IDEs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,cmake&theme=dark" />
@@ -35,28 +35,24 @@ Atualmente focado em **C**, **C++**, **Electron** e **JavaScript**, aplicando bo
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=forwalkin&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="160"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=forwalkin&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="160"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=forwalkin&show_icons=true&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=forwalkin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=forwalkin&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 ---
 
-## 🌐 Contato e Redes
+## Contato e Redes
 
 <p align="center">
   <a href="https://github.com/forwalkin">
