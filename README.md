@@ -62,11 +62,3 @@ Atualmente focado em **C**, **C++**, **Electron** e **JavaScript**, aplicando bo
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
----
-
-## 👁️ Contador de Visitantes
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=forwalkin&label=Visitas+no+perfil&color=0e75b6&style=for-the-badge" />
-</p>
