@@ -1,4 +1,4 @@
-<h1 align="center">👋 forwalkin</h1>
+<h1 align="center">forwalkin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Multiplataforma;C+%7C+C%2B%2B+%7C+Electron;Front-end+e+Desktop+Apps;Sempre+aprendendo+novas+tecnologias" />
