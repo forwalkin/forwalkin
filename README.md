@@ -54,10 +54,10 @@ Atualmente focado em **C**, **C++**, **Electron** e **JavaScript**, aplicando bo
   <a href="https://github.com/forwalkin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:forwalkin.dev@gmail.com">
+  <a href="mailto:forwalkin938@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.gg/">
+  <a href="https://discord.gg/forwalkin">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
@@ -69,7 +69,3 @@ Atualmente focado em **C**, **C++**, **Electron** e **JavaScript**, aplicando bo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=forwalkin&label=Visitas+no+perfil&color=0e75b6&style=for-the-badge" />
 </p>
-
----
-
-<p align="center">✨ Feito com dedicação por <b>Forwalkin</b></p>
