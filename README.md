@@ -1,4 +1,4 @@
-<h1 align="center">forwalkin</h1>
+3<h1 align="center">forwalkin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Multiplataforma;C+%7C+C%2B%2B+%7C+Electron;Front-end+e+Back-end;" />
@@ -53,6 +53,6 @@
   <a href="mailto:forwalkin938@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="forwalkin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</p>
+    <a href="https://discord.gg/forwalkin">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
