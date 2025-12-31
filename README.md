@@ -2,12 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Multiplataforma;C+%7C+C%2B%2B+%7C+Electron;Front-end+e+Back-end;Sempre+aprendendo+novas+tecnologias" />
-</p>
-
----
-
-## Sobre mim  
-Atualmente focado em **C**, **C++**, **Electron** e **JavaScript**, aplicando boas práticas em desenvolvimento **frontend**, **backend** e **aplicações desktop** multiplataforma.  
+</p>  
 
 ---
 
