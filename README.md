@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,dart&theme=dark" />
 </p>
@@ -19,4 +18,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/m/forwalkin/forwalkin?label=Commits%20mensais&style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/forwalkin/forwalkin?label=Último%20commit&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=forwalkin&label=Visitas%20Perfil%20%2B%20Repos&color=0e75b6&style=for-the-badge" />
 </p>
