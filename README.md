@@ -1,22 +1,22 @@
-<h3 align="center">💻 Linguagens</h3>
+<h3 align="center">linguagens</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,dart&theme=dark" />
 </p>
 
-<h3 align="center">⚡ Frameworks & Runtime</h3>
+<h3 align="center">frameworks & Runtime</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,electron,nodejs,npm&theme=dark" />
 </p>
 
-<h3 align="center">🛠️ Ferramentas</h3>
+<h3 align="center">ferramentas</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,cmake&theme=dark" />
 </p>
 
-<h3 align="center">📊 GitHub</h3>
+<h3 align="center">GitHub</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/forwalkin?label=Seguidores&style=for-the-badge&logo=github" />
